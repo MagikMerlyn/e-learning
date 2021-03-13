@@ -6,7 +6,7 @@ function topcomponent()
 {
     return(
 
-        <Mainview/>
+        <h1>Hello Gessie</h1>
 
     )
 }

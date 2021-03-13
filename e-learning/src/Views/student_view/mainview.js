@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 
 function Mainview() {
     return (
-        <h1>Hello Gessie</h1>
+        <Mainview/>
     )
 }
 export default Mainview;
